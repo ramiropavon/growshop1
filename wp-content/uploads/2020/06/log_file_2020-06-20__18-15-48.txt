@@ -1,0 +1,71 @@
+
+---Downloaded files---
+The import files for: Theme Demo Content were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/growshop1
+Data file = C:\xampp\htdocs\growshop1/wp-content/themes/ecommerce-gem-plus/includes/demo/demo-content/content.xml
+Widget file = C:\xampp\htdocs\growshop1/wp-content/themes/ecommerce-gem-plus/includes/demo/demo-content/widget.wie
+Customizer file = C:\xampp\htdocs\growshop1/wp-content/themes/ecommerce-gem-plus/includes/demo/demo-content/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Newsletter": Invalid post type mc4wp-form
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Buscar - No Title - Imported
+Entradas recientes - No Title - Imported
+Archivos - No Title - Imported
+
+Shop Sidebar : 
+
+Filtrar productos por precio - Filter by price - Imported
+Galería - Product Gallery - Imported
+Categorías de producto - Product categories - Imported
+Productos por puntuación - Top Rated Products - Imported
+Nube de etiquetas de productos - Product Tags - Imported
+Productos - Products - Imported
+
+Advertisements Below Slider : 
+
+eC-Gem: Advertisement - LADIES - Imported
+eC-Gem: Advertisement - FOOTWARE - Imported
+eC-Gem: Advertisement - SMART - Imported
+
+Home Page Widget Area : 
+
+eC-Gem: Featured Categories - Featured Categories - Imported
+eC-Gem: CTA - Trending Season - Imported
+eC-Gem: Products Carousel - Featured Products - Imported
+eC-Gem: Latest News - Latest News - Imported
+eC-Gem: Newsletter - Subscribe Newsletter - Imported
+
+Footer 1 : 
+
+Texto - About eCommerce Gem - Imported
+eC-Gem: Social - No Title - Imported
+
+Footer 2 : 
+
+eC-Gem: Contact - Contact Us - Imported
+
+Footer 4 : 
+
+eC-Gem: Features - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
